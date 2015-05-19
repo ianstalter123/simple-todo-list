@@ -8,4 +8,4 @@ Create a todo list app using HTML, JS, and the CSS file `todos.css` in this dire
 * Make sure the app looks just like the following gif.  Use the CSS to figure out what element types, classnames, and id's you may need to use.
 
 
-![](http://i.gyazo.com/f5261ff193975c56b6ca3be266a96420.gif)
+![](http://www.fundraising123.org/files/u16/bigstock-Test-word-on-white-keyboard-27134336.jpg)
