@@ -3,6 +3,9 @@ input = document.createElement('input')
 button = document.createElement('button')
 item = document.createElement('div')
 ul = document.createElement('ul')
+h1 = document.createElement('h1')
+
+h1.innerHTML = 'Todo List'
 
 input.placeholder  = "what do you need to do"
 
@@ -14,6 +17,7 @@ button.name = "Add Todo"
 button.id = "add_todo"
 button.innerHTML = "Add Todo"
 
+body.appendChild(h1)
 body.appendChild(input)
 body.appendChild(button)
 body.appendChild(ul)
